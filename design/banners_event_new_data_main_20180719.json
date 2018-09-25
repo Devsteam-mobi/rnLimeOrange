@@ -1,0 +1,172 @@
+{
+  "mainBanner": [
+    {
+      "bannerLink": "/notice/detail/11",
+      "bannerImageSrc": "/image/main/temp_20180713_11.jpg"
+    },
+    {
+      "bannerLink": "/notice/detail/12",
+      "bannerImageSrc": "/image/main/temp_20180713_12.jpg"
+    },
+    {
+      "bannerLink": "/notice/detail/13",
+      "bannerImageSrc": "/image/main/temp_20180713_13.jpg"
+    }
+  ],
+  "eventBanner": [
+    {
+      "bannerTitle": "banner Title 1",
+      "bannerDescription": "This is event banner 1",
+      "bannerLink": "/notice/detail/11",
+      "bannerImageSrc": "/image/main/temp_20180713_11.jpg"
+    },
+    {
+      "bannerTitle": "banner Title 2",
+      "bannerDescription": "This is event banner 2",
+      "bannerLink": "/notice/detail/12",
+      "bannerImageSrc": "/image/main/temp_20180713_12.jpg"
+    },
+    {
+      "bannerTitle": "banner Title 3",
+      "bannerDescription": "This is event banner 3",
+      "bannerLink": "/notice/detail/13",
+      "bannerImageSrc": "/image/main/temp_20180713_13.jpg"
+    }
+  ],
+  "productListNewLo": [
+    {
+      "brandName": "Nike",
+      "productName": "Anorak Windbreaker",
+      "productCode": "NK20180712-DG",
+      "retailPrice": "199000",
+      "discount": "0",
+      "originalPrice": "0"
+    },
+    {
+      "brandName": "Adidas",
+      "productName": "Adidas Windbreaker",
+      "productCode": "AD20180712-RE",
+      "retailPrice": "199000",
+      "discount": "0",
+      "originalPrice": "0"
+    },
+    {
+      "brandName": "Puma",
+      "productName": "Puma Windbreaker",
+      "productCode": "PM20180712-WH",
+      "retailPrice": "100000",
+      "discount": "50",
+      "originalPrice": "199000"
+    },
+    {
+      "brandName": "Reebok",
+      "productName": "Puma Windbreaker",
+      "productCode": "RB20180712-WH",
+      "retailPrice": "100000",
+      "discount": "30",
+      "originalPrice": "139000"
+    }
+  ],
+  "productListNewRo": [
+    {
+      "brandName": "Nike",
+      "productName": "Anorak Windbreaker",
+      "productCode": "NK20180712-DG",
+      "retailPrice": "199000",
+      "discount": "0",
+      "originalPrice": "0"
+    },
+    {
+      "brandName": "Adidas",
+      "productName": "Adidas Windbreaker",
+      "productCode": "AD20180712-RE",
+      "retailPrice": "199000",
+      "discount": "0",
+      "originalPrice": "0"
+    },
+    {
+      "brandName": "Puma",
+      "productName": "Puma Windbreaker",
+      "productCode": "PM20180712-WH",
+      "retailPrice": "100000",
+      "discount": "50",
+      "originalPrice": "199000"
+    },
+    {
+      "brandName": "Reebok",
+      "productName": "Puma Windbreaker",
+      "productCode": "RB20180712-WH",
+      "retailPrice": "100000",
+      "discount": "30",
+      "originalPrice": "139000"
+    }
+  ],
+  "productListNewAw": [
+    {
+      "brandName": "Nike",
+      "productName": "Anorak Windbreaker",
+      "productCode": "NK20180712-DG",
+      "retailPrice": "199000",
+      "discount": "0",
+      "originalPrice": "0"
+    },
+    {
+      "brandName": "Adidas",
+      "productName": "Adidas Windbreaker",
+      "productCode": "AD20180712-RE",
+      "retailPrice": "199000",
+      "discount": "0",
+      "originalPrice": "0"
+    },
+    {
+      "brandName": "Puma",
+      "productName": "Puma Windbreaker",
+      "productCode": "PM20180712-WH",
+      "retailPrice": "100000",
+      "discount": "50",
+      "originalPrice": "199000"
+    },
+    {
+      "brandName": "Reebok",
+      "productName": "Puma Windbreaker",
+      "productCode": "RB20180712-WH",
+      "retailPrice": "100000",
+      "discount": "30",
+      "originalPrice": "139000"
+    }
+  ],
+  "productListNewBw": [
+    {
+      "brandName": "Nike",
+      "productName": "Anorak Windbreaker",
+      "productCode": "NK20180712-DG",
+      "retailPrice": "199000",
+      "discount": "0",
+      "originalPrice": "0"
+    },
+    {
+      "brandName": "Adidas",
+      "productName": "Adidas Windbreaker",
+      "productCode": "AD20180712-RE",
+      "retailPrice": "199000",
+      "discount": "0",
+      "originalPrice": "0"
+    },
+    {
+      "brandName": "Puma",
+      "productName": "Puma Windbreaker",
+      "productCode": "PM20180712-WH",
+      "retailPrice": "100000",
+      "discount": "50",
+      "originalPrice": "199000"
+    },
+    {
+      "brandName": "Reebok",
+      "productName": "Puma Windbreaker",
+      "productCode": "RB20180712-WH",
+      "retailPrice": "100000",
+      "discount": "30",
+      "originalPrice": "139000"
+    }
+  ]
+}

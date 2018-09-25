@@ -1,0 +1,28 @@
+{
+  "presets": ["react-native"],
+  "plugins": [
+    ["module-resolver", {
+      "alias": {
+        "components": "rnLimeOrange/src/components",
+        "constants": "rnLimeOrange/src/constants",
+        "layouts": "rnLimeOrange/src/layouts",
+        "reducers": "rnLimeOrange/src/reducers",
+        "actions": "rnLimeOrange/src/actions",
+        "images": "rnLimeOrange/src/resources/images",
+        "fonts": "rnLimeOrange/src/resources/fonts",
+        "resources": "rnLimeOrange/src/resources",
+        "styles": "rnLimeOrange/src/styles",
+        "api": "rnLimeOrange/src/api",
+        "models": "rnLimeOrange/src/models",
+        "utils": "rnLimeOrange/src/utils",
+        "navigation": "rnLimeOrange/src/navigation"
+      }
+    }],
+    [
+      "@babel/plugin-proposal-decorators",
+      {
+        "legacy": true
+      }
+    ],
+  ]
+}
